@@ -1,6 +1,6 @@
 # Arduino Ultrasonic Sensor Motor Control
 
-![MIT License ↗](https://img.shields.io/apm/l/atomic-design-ui.svg?)[↗]([https://opensource.org/licenses/MIT)
+[![MIT License](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 ![Arduino IDE](https://img.shields.io/badge/Arduino%20IDE-1.8.16-blue)
 ![Platform](https://img.shields.io/badge/Platform-Arduino-brightgreen)
 
