@@ -1,8 +1,8 @@
 # Arduino Ultrasonic Sensor Motor Control
 
 [![MIT License](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-![Arduino IDE](https://img.shields.io/badge/Arduino%20IDE-1.8.16-blue)
-![Platform](https://img.shields.io/badge/Platform-Arduino-brightgreen)
+[![Arduino IDE](https://img.shields.io/badge/Arduino%20IDE-1.8.16-blue)](https://www.arduino.cc/)
+[![Platform](https://img.shields.io/badge/Platform-Arduino-brightgreen)]()
 
 This is an Arduino project that uses an ultrasonic sensor to control the speed of a motor based on the distance measured by the sensor. If the distance is less than 200 cm, the motor will start moving at 25% of its speed and the lower the distance, the higher the speed of the motor.
 
